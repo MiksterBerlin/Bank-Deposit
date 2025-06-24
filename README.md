@@ -20,7 +20,7 @@ Models:
 
 SVM & Logistic Regression were exclude because of lower performance.
 
-After a Gridsearch and the adjusting of the performance metric, feature importance calculation was used to define a subset of features for the model.
+After a Gridsearch and the adjusting of the performance metrices, feature importance calculation was used to define a subset of features for the model.
 
 Result interpretation was done using Shap explaination.
 
