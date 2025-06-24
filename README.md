@@ -25,7 +25,8 @@ After a Gridsearch and the adjusting of the performance metrices, feature import
 Result interpretation was done using Shap explaination.
 
 Results:
-After ruling out Logarithmic Regression and SVM for poor results, we optimized K-Nearest Neighbors and Decision Tree classifiers. Key features included the Euribor 3-month rate, campaign call count, and consumer confidence index. Calling more than 3 or 4 times reduces success odds. The Euribor rate, a significant European interest benchmark, strongly correlates with the consumer price index and influences behavior. Students, retirees, and certain demographics show higher success rates, which fluctuate with interest rates. Prior negative credit behavior is exclusionary.
+Result interpretation was done using Shap explaination.
+After ruling out Logarithmic Regression and SVM for poor results, Decision Tree classifier was optimized. Key features included the Euribor 3-month rate, campaign call count, and consumer confidence index. Calling more than 3 or 4 times reduces success odds. The Euribor rate, a significant European interest benchmark, strongly correlates with the consumer price index and influences consumer behavior. Students, retirees, and certain demographics show higher success rates, which fluctuate with interest rates. Prior negative credit behavior is exclusionary.
 
 
 
