@@ -10,7 +10,7 @@ This dataset was used to compare different classification models to optain the b
 
 Methods:
 As the data set was imbalanced, oversampling was performed to reduce the recall of the models.
-After feature engeneering and feature selection models was tested.
+After feature engeneering and feature selection models were tested.
 
 Models: 
 1) Logistic Regression
